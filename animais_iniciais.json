@@ -1,0 +1,48 @@
+[
+    {
+        "_id": "a9c1c5a5-d813-45d0-b873-8031c58324ff",
+        "nome": "Adilson",
+        "especie": "tigre siberiano",
+        "idade": 7,
+        "habitat": [
+            {
+                "id": "a2",
+                "nome": "taiga",
+                "tipoAmbiente": "úmido",
+                "cuidador": {
+                    "id": "a3",
+                    "nome": "Claudomiro Silva",
+                    "documento": "123.456.789.01"
+                }
+            }
+        ]
+    },
+    {
+        "_id": "dfd1762c-ac49-445e-a9e0-e5bf2901dfbf",
+        "nome": "Whinderson",
+        "especie": "elefante da savana",
+        "idade": 14,
+        "habitat": [
+            {
+                "id": "b2",
+                "nome": "savana",
+                "tipoAmbiente": "seco",
+                "cuidador": {
+                    "id": "b3",
+                    "nome": "Alucinética Honorata",
+                    "documento": "987.654.321.09"
+                }
+            },
+            {
+                "id": "c3",
+                "nome": "Floresta",
+                "tipoAmbiente": "úmido",
+                "cuidador": {
+                    "id": "b3",
+                    "nome": "Alucinética Honorata",
+                    "documento": "987.654.321.09"
+                }
+            }
+        ]
+    }
+]
